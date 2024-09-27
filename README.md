@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>🧑‍🎓 I'm currently a Year 2 software engineering student<br>🏫 I'm currently studying in [Asia Pacific University of Technology and Innovation (APU)](https://www.apu.edu.my/)<br>🌱 I’m currently learning Artificial Intelligence and trying to improve my programming skills<br>⚡ Fun fact: I actually don't like studying software engineering at first but something changed me <br>🧑‍💻 I'm currently working on Full Stack Related Projects
+Hi there 👋<br><br>🧑‍🎓 I'm currently a final year software engineering student<br>🏫 I'm currently studying in [Asia Pacific University of Technology and Innovation (APU)](https://www.apu.edu.my/)<br>🌱 I’m currently learning Artificial Intelligence and trying to improve my programming skills<br>⚡ Fun fact: I actually don't like studying software engineering at first but something changed me <br>🧑‍💻 I'm currently working on Full Stack Related Projects
 
 
 ## 🌐 Socials:
