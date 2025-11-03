@@ -12,6 +12,8 @@ Hi there 👋<br><br>🧑‍🎓 I'm currently a final year software engineering
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KwanJunEr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KwanJunEr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 🧑‍💻 LeetCode Stats:
+![](https://leetcard.jacoblin.cool/jonastheitguy?ext=heatmap)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
